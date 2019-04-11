@@ -7,6 +7,10 @@ module.exports = {
     [
       '@neutrinojs/react',
       {
+        devServer: {
+          host: process.env.HOST || 'localhost',
+          port: process.env.PORT || 9000
+        },
         html: {
           title: 'Balrog Admin',
           favicon: `${__dirname}/src/images/favicon.png`
