@@ -20,7 +20,7 @@
     "material-ui-next-pickers": "^0.0.20",
     "mdi-react": "^5.3.0",
     "prop-types": "^15",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-hot-loader": "^4",
